@@ -85,3 +85,4 @@ List of lectures and exercises listed by date
 
 ## January 13th
 - Rails Helpers - [Lecture](https://github.com/ga-dc/curriculum/tree/master/05-mvc-with-rails/rails-helpers)
+- TODO App - [Exercise](https://github.com/drmikeh/rails_todo_app)
