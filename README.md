@@ -82,3 +82,6 @@ List of lectures and exercises listed by date
 - Rails Views & Controllers - [Lecture](https://github.com/ga-dc/curriculum/tree/master/05-mvc-with-rails/rails-views-and-controllers)
 - Tunr App - [Exercise](https://github.com/ga-dc/tunr_rails_models_and_migrations)
 - Rails Resources & Routing - [Lecture](https://github.com/ATL-WDI-Curriculum/rails-resources-and-routing)
+
+## January 13th
+- Rails Helpers - [Lecture](https://github.com/ga-dc/curriculum/tree/master/05-mvc-with-rails/rails-helpers)
