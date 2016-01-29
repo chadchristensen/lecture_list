@@ -89,3 +89,20 @@ List of lectures and exercises listed by date
 
 ## January 25th
 - Rails as a Restful API - [Lecture](https://github.com/ATL-WDI-Curriculum/rails-as-a-restful-api)
+- JS Advanced Review - [Exercise](https://github.com/ATL-WDI-Exercises/js-advanced-review)
+- Intro to MEAN stack - [Lecture](https://github.com/ATL-WDI-Curriculum/intro-to-mean-stack)
+
+## January 26th
+- Intro to Node.JS - [Lecture](https://github.com/ATL-WDI-Curriculum/intro-to-node)
+- Intro to Node/Express - [Lecture](https://github.com/ATL-WDI-Curriculum/node-express-intro-lesson/blob/master/README.md)
+
+## January 27th
+- Node/Express Controller - [Exercise](https://github.com/ATL-WDI-Curriculum/node-express-intro-lesson/blob/master/README.md)
+- Intro to Mongo/NoSQL - [Lecture](https://github.com/ATL-WDI-Curriculum/mongo-nosql-intro-lesson)
+- Pokemon - [Exercise](https://github.com/ATL-WDI-Exercises/mongo-pokemon)
+
+## January 28th
+- Intro to Mongoose - [Lecture](https://github.com/ATL-WDI-Curriculum/intro-to-mongoose)
+
+## January 29th
+- Express/Node/Mongo - [Exercise](https://github.com/ATL-WDI-Exercises/express-node-mongoose-lab/tree/master)
