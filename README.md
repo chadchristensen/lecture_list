@@ -1,5 +1,6 @@
 # lecture_list
 List of lectures and exercises listed by date
+- Helpful Links - [Link](https://github.com/ATL-WDI-Curriculum/helpful_links)
 
 ## November 30th
 - Intro to command line - [Lecture](https://github.com/ATL-WDI-Curriculum/intro-to-command-line)
