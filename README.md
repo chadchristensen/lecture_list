@@ -107,3 +107,20 @@ List of lectures and exercises listed by date
 
 ## January 29th
 - Express/Node/Mongo - [Exercise](https://github.com/ATL-WDI-Exercises/express-node-mongoose-lab/tree/master)
+
+## February 1st
+- MEN todos - [Code Along](https://github.com/drmikeh/todos)
+
+## February 2nd
+- Express-Mongo Modelling - [Lecture](https://github.com/ATL-WDI-Curriculum/express-mongoose-modelling)
+- Passport Security - [Lecture](https://github.com/ATL-WDI-Curriculum/express-security-with-passport)
+
+## February 3rd
+- AJAX and Express - [Lecture](https://github.com/ATL-WDI-Curriculum/ajax-and-express)
+- Spotify.me - [Exercise](https://github.com/ATL-WDI-Exercises/spotify-me)
+
+## February 4th
+- Websockets - [Lecture](https://github.com/ATL-WDI-Curriculum/websockets/tree/master)
+- Error Handling - [Lecture](https://github.com/ATL-WDI-Curriculum/express-error-handling)
+- Git Team Workflow 1 - [Lecture](https://github.com/ATL-WDI-Curriculum/git-team-workflow-part-1)
+- Git Team Workflow 2 - [Lecture](https://github.com/ATL-WDI-Curriculum/git-team-workflow-part-2)
