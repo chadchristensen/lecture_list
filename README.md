@@ -124,3 +124,25 @@ List of lectures and exercises listed by date
 - Error Handling - [Lecture](https://github.com/ATL-WDI-Curriculum/express-error-handling)
 - Git Team Workflow 1 - [Lecture](https://github.com/ATL-WDI-Curriculum/git-team-workflow-part-1)
 - Git Team Workflow 2 - [Lecture](https://github.com/ATL-WDI-Curriculum/git-team-workflow-part-2)
+
+## Februrary 15th
+- Intro to Anguar - [Lecture](https://github.com/ATL-WDI-Curriculum/angular-intro)
+- Tic Tac Toe - [Exercise](http://codepen.io/drmikeh/pen/GJvBEy?editors=0010)
+
+## February 16th
+- Angular Services and Factories - [Lecture](http://codepen.io/drmikeh/pen/VeRNgw)
+- Services vs. Factores - [Reading](http://blog.thoughtram.io//angular/2015/07/07/service-vs-factory-once-and-for-all.html)
+- Confused aobut Service vs. Factore - [Reading](http://stackoverflow.com/questions/13762228/confused-about-service-vs-factory)
+- Simple AngularJS TODO App - [Exercise](http://codepen.io/drmikeh/pen/JGzQRW?editors=0010)
+- Angular Forms - [Lecture](https://github.com/ATL-WDI-Curriculum/angular-forms)
+
+## February 17th
+- Angular Animation - [Lecture](https://github.com/ATL-WDI-Curriculum/angular-animation)
+- D3 - [Lecture](https://github.com/ATL-WDI-Curriculum/d3)
+
+## February 18th
+- Yeoman Intro - [Lecture](https://github.com/ATL-WDI-Curriculum/yeoman-intro)
+- Technical Interviewing - [Lecture](https://github.com/ATL-WDI-Curriculum/technical-interviewing)
+
+## Februrary 19th
+- Angular UI Router - [Lecture](https://github.com/ATL-WDI-Curriculum/angular-ui-router)
