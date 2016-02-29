@@ -131,8 +131,8 @@ List of lectures and exercises listed by date
 
 ## February 16th
 - Angular Services and Factories - [Lecture](http://codepen.io/drmikeh/pen/VeRNgw)
-- Services vs. Factores - [Reading](http://blog.thoughtram.io//angular/2015/07/07/service-vs-factory-once-and-for-all.html)
-- Confused aobut Service vs. Factore - [Reading](http://stackoverflow.com/questions/13762228/confused-about-service-vs-factory)
+- Services vs. Factories - [Reading](http://blog.thoughtram.io//angular/2015/07/07/service-vs-factory-once-and-for-all.html)
+- Confused aobut Service vs. Factory - [Reading](http://stackoverflow.com/questions/13762228/confused-about-service-vs-factory)
 - Simple AngularJS TODO App - [Exercise](http://codepen.io/drmikeh/pen/JGzQRW?editors=0010)
 - Angular Forms - [Lecture](https://github.com/ATL-WDI-Curriculum/angular-forms)
 
@@ -146,3 +146,16 @@ List of lectures and exercises listed by date
 
 ## Februrary 19th
 - Angular UI Router - [Lecture](https://github.com/ATL-WDI-Curriculum/angular-ui-router)
+- Angular Music browser - [Demo](https://github.com/ATL-WDI-Exercises/angular-music-browser)
+
+## February 22nd
+- Yeoman Angular GA Camping - [Lecture](https://github.com/ATL-WDI-Curriculum/yeoman-angular-ga-camping-store)
+
+## February 23rd
+- Angular HTTP - [Lecture](https://github.com/ATL-WDI-Curriculum/angular-http)
+- Angular HTTP - [Exercise](https://github.com/ATL-WDI-Exercises/angular-http-lab)
+- Channel Chat - [Code-along](https://github.com/ATL-WDI-Exercises/channel-chat-code-along)
+
+## February 24th
+- Node Mocha Testing - [Lecture](https://github.com/ATL-WDI-Curriculum/node-mocha-testing-intro)
+- Jasmine Testing Intro - [Lecture](https://github.com/ATL-WDI-Curriculum/testing-intro)
